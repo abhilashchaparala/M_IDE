@@ -59,7 +59,7 @@ const Main: React.FC = () => {
     const [language, code, inp] = [lang, value[lang], input];
     const res = await compileAndRun(value[lang], lang, input);
     if (res.error) {
-      dispatch(setOutput("Try agail later"));
+      dispatch(setOutput("Try again later"));
     } else {
       dispatch(setOutput(res.output));
       dispatch(addRecentCode(language, code, inp, output));

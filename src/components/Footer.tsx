@@ -14,9 +14,9 @@ const Footer: React.FC = () => {
                   target="_blank"
                   rel="noreferrer"
                   className="link-to-alfie"
-                  href="https://tarunalfie.netlify.app"
+                  href=""
                 >
-                  Tarun
+                  Abhilash Chaparala
                 </a>
               </p>
             </div>

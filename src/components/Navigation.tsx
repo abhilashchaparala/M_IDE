@@ -141,7 +141,7 @@ const Navigation: React.FC = () => {
           style={{ color: "white", fontSize: "1.3rem" }}
         >
           <img className="logo" src="/Flynt.png" alt="" />
-          Flynt IDE
+          M-IDE
         </NavLink>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
