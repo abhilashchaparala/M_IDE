@@ -10,14 +10,11 @@ const Footer: React.FC = () => {
             <div className="alfie">
               <p>
                 Made by{" "}
-                <a
-                  target="_blank"
-                  rel="noreferrer"
+                <span
                   className="link-to-alfie"
-                  href=""
                 >
                   Abhilash Chaparala
-                </a>
+                </span>
               </p>
             </div>
           </footer>
