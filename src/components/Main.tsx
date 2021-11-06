@@ -82,7 +82,7 @@ const Main: React.FC = () => {
     if (res.success) {
       openToast(
         "Generated link",
-        "https://flynt-ide.netlify.app/shared/" + res.url
+        "https://m-ide.netlify.app/shared/" + res.url
       );
     } else {
       openToast("Generating Failed", "Server is busy, try again later");
