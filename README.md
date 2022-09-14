@@ -1,5 +1,14 @@
 To use: http://m-ide.netlify.com/
 
+
+# M-IDE An Integrated Development Environment
+
+### This IDE supports multiple languages, used for compile, share and save the code for each user.
+
+### Save templates of code, share with your friends and code together.
+
+
+
 # Setting up in Local
 ## Getting Started with Create React App
 
